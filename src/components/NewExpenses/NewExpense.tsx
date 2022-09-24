@@ -13,7 +13,7 @@ const NewExpense = () => {
       type="button"
       onClick={toggleFormHandler}
     >
-      Add New Expense
+      Add Nova Despesa
     </button>
   )
 

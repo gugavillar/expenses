@@ -76,9 +76,9 @@ const NewExpenseForm = ({ onToggleForm }: NewExpenseFormProps) => {
           type="button"
           onClick={onToggleForm}
         >
-          Cancel
+          Cancelar
         </button>
-        <button type="submit">Add Expense</button>
+        <button type="submit">Add Despesa</button>
       </div>
     </form>
   )
